@@ -1,0 +1,135 @@
+body{
+    font-family: 'Montserrat-black';
+}
+#title{
+    background-color: #ffe6e6;
+    padding: 20px;
+   
+    /* color: wheat; */
+}
+h1 {
+    font-family: 'Montserrat';
+    color: rgb(238, 166, 32);
+    font-size: 3rem;
+    line-height: 1.5;
+   
+}
+h2{
+    font-family: fantasy;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    /* /* font-family: "monospace-bold"; */
+    font-weight: bold; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    color: #8f8f8f;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+/* navigation bar */
+.navbar{
+    padding:0 0 4.5rem ;
+}
+.nav-item{
+    padding: 0 18px 0 18px ;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-light";
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.buttonmy{
+    margin: 5% 5% 5% 5%;
+}
+/* features-box */
+.icon{
+    
+}
+#features{
+    padding: 7% 15%;
+}
+.features-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color:black;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: violet;
+}
+/* testonomial section */
+#testimonials{
+    padding:7% 15%;
+    text-align: center;
+    background-color: #ffe6e6;
+   
+}
+.testimonials-image{
+    margin:  20px;
+    border-radius: 100%;
+    margin: 20px;
+}
+.carousel-item{ 
+
+}
+/* press */
+#press{
+    background-color: #ffe6e6;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.pressimg{
+    width: 15%;
+    margin:20px 20px 15px;
+}
+/* pricing */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding:3% 2%;
+}
+.heading{
+    color:  rgb(238, 166, 32);;
+}
+@media(max-width:1028px){
+    #title{
+        text-align: center;
+        }
+    .title-image{
+        position: static;
+        text-align: ;
+    }
+}
+#cta{
+    padding: 100px;
+    padding-bottom:20px ;
+    background-color:#ffe6e6;
+    text-align: center;
+}
+
+#footer{
+    
+    text-align: center;
+    padding: 20px;
+}
+.icon1{
+    margin: 1rem;
+}
+h2{
+   font-family: Arial, Helvetica, sans-serif;
+}
